@@ -26,3 +26,14 @@ I absolutely love dining at **Bawarchi**. The best dish they have is the **Hyder
 | "The Great Gatsby"        | F. Scott Fitzgerald   | Timeless Classic         |
 | "1984"                    | George Orwell         | Explore Dystopian World  |
 | "The Catcher in the Rye"  | J.D. Salinger         | Coming of Age Journey    |
+---
+
+# Favorite Quotes
+
+> "The only limit to our realization of tomorrow will be our doubts of today."  
+> - *Franklin D. Roosevelt*
+
+> "In three words I can sum up everything I've learned about life: it goes on."  
+> - *Robert Frost*
+
+---
