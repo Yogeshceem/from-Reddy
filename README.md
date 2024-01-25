@@ -12,3 +12,9 @@ I absolutely love dining at **Bawarchi**. The best dish they have is the **Hyder
 2. Chicken Dum Biryani
 3. Veg Biryani
 
+## Places to Visit Near Bawarchi <!-- Appropriate heading for this section -->
+
+- Charminar <!-- Unordered list of places to visit near the restaurant -->
+- Hussain Sagar Lake
+- Golconda Fort
+
