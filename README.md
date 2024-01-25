@@ -18,3 +18,4 @@ I absolutely love dining at **Bawarchi**. The best dish they have is the **Hyder
 - Hussain Sagar Lake
 - Golconda Fort
 
+[Link to MyMedia](https://github.com/Yogeshceem/from-Reddy/blob/main/MyMedia.md) <!-- Link to your MyMedia file -->
