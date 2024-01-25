@@ -46,4 +46,4 @@ I absolutely love dining at **Bawarchi**. The best dish they have is the **Hyder
 def remove_falsy(unfiltered_list):
     return list(filter(bool, unfiltered_list))
 ```
-![Link to code snippet](https://github.com/Yogeshceem/from-Reddy/blob/main/download.jpg)
+![Link to code snippet](https://code.pieces.app/collections/python)
