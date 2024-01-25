@@ -19,3 +19,10 @@ I absolutely love dining at **Bawarchi**. The best dish they have is the **Hyder
 - Golconda Fort
 
 [Link to MyMedia](https://github.com/Yogeshceem/from-Reddy/blob/main/MyMedia.md) <!-- Link to your MyMedia file -->
+
+| Title                     | Author               | Reason                   |
+| ------------------------- | -------------------- | ------------------------ |
+| "To Kill a Mockingbird"   | Harper Lee            | Addressing Injustice     |
+| "The Great Gatsby"        | F. Scott Fitzgerald   | Timeless Classic         |
+| "1984"                    | George Orwell         | Explore Dystopian World  |
+| "The Catcher in the Rye"  | J.D. Salinger         | Coming of Age Journey    |
